@@ -380,6 +380,7 @@ body {
 
 /* Result Section Card */
 .result-card {
+    margin-top: 1rem;
     display: grid;
     grid-template-columns: 2fr 1fr;
     gap: 2rem;
@@ -427,6 +428,7 @@ body {
 }
 
 .shortened-display {
+    margin-top: 0.75rem;
     display: flex;
     align-items: flex-end;
     gap: 1rem;
@@ -546,6 +548,7 @@ body {
 .table-card {
     padding: 0;
     overflow: hidden;
+    margin-top: 1rem;
 }
 
 .table-header {
